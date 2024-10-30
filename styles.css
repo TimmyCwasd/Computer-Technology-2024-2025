@@ -2,7 +2,8 @@
 <body>
 #btn1 {
   display: block;
-  padding: 245px 140px;
+  width= "245";
+  height= "140"
 }
 </body>
 </style>
