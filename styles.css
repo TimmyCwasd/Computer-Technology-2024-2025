@@ -1,10 +1,9 @@
-<style>
-<body>
 #btn1 {
-padding: 500px 200px
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
 }
 #text1 {
   font-size: 100px;
 }
-</body>
-</style>
